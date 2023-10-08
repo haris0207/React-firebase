@@ -1,0 +1,129 @@
+{"emplist":[{
+	"id":0,
+	"name":"haris",
+	"age":23,
+	"location":"banglore",
+	"job":"developer"
+
+},
+{
+	"id":1,
+	"name":"vishal",
+	"age":22,
+	"location":"noida",
+	"job":"engineer"
+
+},
+{
+	"id":2,
+	"name":"rachit",
+	"age":42,
+	"location":"pune",
+	"job":"advocate"
+},
+	{
+	"id":3,
+	"name":"shashank",
+	"age":34,
+	"location":"banglore",
+	"job":"teacher"
+
+},
+{
+	"id":4,
+	"name":"aman",
+	"age":29,
+	"location":"nalanda",
+	"job":"driver"
+
+},
+
+{
+	"id":5,
+	"name":"perry",
+	"age":28,
+	"location":"australia",
+	"job":"clerk"
+
+},
+{
+	"id":6,
+	"name":"nancy",
+	"age":25,
+	"location":"australia",
+	"job":"doctor"
+
+},
+
+{
+	"id":7,
+	"name":"ayush",
+	"age":23,
+	"location":"bhopal",
+	"job":"business"
+
+},
+{
+	"id":8,
+	"name":"naman",
+	"age":35,
+	"location":"lucknow",
+	"job":"principal"
+
+},
+{
+	"id":9,
+	"name":"shadab",
+	"age":31,
+	"location":"mumbai",
+	"job":"principal engineer"
+
+},
+{
+	"id":10,
+	"name":"anjali",
+	"age":25,
+	"location":"goa",
+	"job":"designer"
+
+},
+{
+	"id":11,
+	"name":"sunidhi",
+	"age":40,
+	"location":"delhi",
+	"job":"makeup artist"
+},
+{
+	"id":12,
+	"name":"raman",
+	"age":19,
+	"location":"ranchi",
+	"job":"web designer"
+
+},
+{
+	"id":13,
+	"name":"hassan",
+	"age":33,
+	"location":"kolkata",
+	"job":"electrician"
+
+},
+{
+	"id":14,
+	"name":"Vikram",
+	"age":38,
+	"location":"kerala",
+	"job":"athlete"
+
+},
+{
+	"id":15,
+	"name":"nandini",
+	"age":21,
+	"location":"kolkata",
+	"job":"singer"
+
+}
+]}
