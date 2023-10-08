@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  background-color:#9856C7;
+  color: #291339;
+}
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+td{
+  padding: 1.2rem;
+}
+th {
+  text-align: left;
+  margin: 1.2rem;
+ 
+}
+table{
+  width: 100%;
+}
